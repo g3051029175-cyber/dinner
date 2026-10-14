@@ -1,0 +1,33 @@
+{
+  "name": "今天晚上吃什么？- 美乐蒂粉色限定版",
+  "short_name": "今晚吃什么",
+  "description": "点一下按钮，美乐蒂帮你从 74 种晚餐里选一个",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffd6e6",
+  "theme_color": "#ff5c96",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
